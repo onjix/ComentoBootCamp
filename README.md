@@ -1,6 +1,6 @@
 # 1 Week Bootcamp
 -----------------
-## [개발환경]
+## 개발환경
 -----------------
 - Java 8
 - Jdk 1.8
@@ -9,7 +9,7 @@
 - WAS : Tomcat 9.0
 - DB : MariaDB(Theater Table)
   
-## [과제]
+## 과제
 -----------------
 - [JDK 1.8 설치] (완료)
 - [Eclipse, Spring 다운로드 및 설치] (완료)
