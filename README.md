@@ -1,4 +1,4 @@
-![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/66ee9e29-7129-4ac5-9d4f-f19f88176ae4)# 1 Week Bootcamp
+# 1 Week Bootcamp
 
 ## 개발환경
 - Java 8
