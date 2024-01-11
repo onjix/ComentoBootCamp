@@ -1,4 +1,4 @@
-# 1 Week Bootcamp
+![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/66ee9e29-7129-4ac5-9d4f-f19f88176ae4)# 1 Week Bootcamp
 
 ## 개발환경
 - Java 8
@@ -23,4 +23,9 @@
 ![캡처](https://github.com/onjix/ComentoBootCamp/assets/101625609/5e459ffe-09aa-4f31-b215-a9eb186367a4)
 
 
-
+# 2 Week Bootcamp
+## 과제
+- [API 가이드 작성](완료)
+- [Rest API 학습 ] (완료)
+- [HTTP 통신 학습 ] (완료)
+- [브라우저 ⇄ 서버 과정] (완료)
