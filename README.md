@@ -4,8 +4,8 @@
 3. 동료와 소통하기 위한 API문서를 직접 작성해보며 업무 프로세스 이해하기
 
 ## 목차
-- [1주차](# 1-Week-Bootcamp)
-- [2주차](# 2-Week-Bootcamp)
+- [1주차](#1-Week-Bootcamp)
+- [2주차](#2-Week-Bootcamp)
 - [3주차]
 - [4주차]
 
