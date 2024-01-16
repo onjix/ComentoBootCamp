@@ -30,4 +30,4 @@
 - [HTTP 통신 학습] (완료)
 - [브라우저 ⇄ 서버 과정] (완료)
 
-[SW활용현황 API](document/SW활용 현황 API.pdf)
+[SW활용현황 API](https://github.com/onjix/ComentoBootCamp/blob/551049a9e39e9804d58fae042f1f29b8c71062bf/document/SW%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%BC%20API.pdf)
