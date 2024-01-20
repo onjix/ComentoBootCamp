@@ -12,13 +12,13 @@
  - [4주차 과제](#4주차)
      
 ## 1주차 🔎
-### 과제
-- [JDK 1.8 설치] (완료)
-- [Eclipse, Spring 다운로드 및 설치] (완료)
-- [톰캣 설정] (완료)
-- [Hello World 출력] (완료)
-- [mariaDB, mySql WorkBench 설치 및 샘플 DB 구축] (완료)
-- [스프링, Mariadb, MyBatis 연동, 데이터 조회] (완료)
+### 과제 📕
+#### 1) JDK 1.8 설치
+#### 2) Eclipse, Spring 다운로드 및 설치
+#### 3) 톰캣 설정
+#### 4) Hello World 출력
+#### 5) mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
+#### 6) 스프링, Mariadb, MyBatis 연동, 데이터 조회
 ### 개발환경
 - Java 8
 - Jdk 1.8
@@ -33,21 +33,22 @@
 
 
 ## 2주차
-### 과제
-- [API 가이드 작성] (완료)
-- [Rest API 학습] (완료)
-- [HTTP 통신 학습] (완료)
-- [브라우저 ⇄ 서버 과정] (완료)
+### 과제 📗
+#### 1) API 가이드 작성
+#### 2) Rest API 학습
+#### 3) HTTP 통신 학습
+#### 4) 브라우저 ⇄ 서버 과정
 
 [SW활용현황 API 가이드 작성 및 학습](https://github.com/onjix/ComentoBootCamp/blob/551049a9e39e9804d58fae042f1f29b8c71062bf/document/SW%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%BC%20API.pdf)
 
 
 ## 3주차
-#### [스프링부트 개발 환경 셋팅]
+### 과제 📘
+#### 1) 스프링부트 개발 환경 셋팅
 - Spring boot test
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/0b724b75-de23-45be-8da2-09d8b138100b)
   
-#### [통계 API(SW활용현황)을 위한 DB, TABLE 생성]
+#### 2) 통계 API(SW활용현황)을 위한 DB, TABLE 생성
 - requestInfo Table 생성
   
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/ebf29d3d-3201-4bfe-89cf-5e71613ed4ec)
@@ -60,12 +61,12 @@
   
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/06a06b7a-fc23-4b38-988f-b22e7884b2fe)
 
-#### [[20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동]
+#### 3) 20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
 - 20년도 접속자 리스트 출력하는 URL
   
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/29dcb89d-f9be-4bbc-939a-455b415ddb31)
   
-#### [SW활용 현황 통계 API 구축을 위한 SQL 작성!]
+#### 4) SW활용 현황 통계 API 구축을 위한 SQL 작성!
 - 월별 접속자 수
   
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/87f26ee5-b96b-434c-9d8b-5f3791195d98)
@@ -84,5 +85,5 @@
   
 - 휴일을 제외한 로그인 수...
 
-
 ## 4주차
+### 과제 📙
