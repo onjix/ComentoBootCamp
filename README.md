@@ -1,4 +1,4 @@
-![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/8407b779-c6cd-479f-95f7-757275e576ec)# __코멘토 직무부트 캠프__ 👨🏻‍💻
+# __코멘토 직무부트 캠프__ 👨🏻‍💻
 
 ## __프로젝트 목표__ 💡
  1. Spring vs SpringBoot 차이 느껴보기
@@ -42,32 +42,37 @@
 [SW활용현황 API 가이드 작성 및 학습](https://github.com/onjix/ComentoBootCamp/blob/551049a9e39e9804d58fae042f1f29b8c71062bf/document/SW%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%BC%20API.pdf)
 
 ## 3주차
-### 과제
-#### [스프링부트 개발 환경 셋팅] (완료)
+#### [스프링부트 개발 환경 셋팅]
 - Spring boot test
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/0b724b75-de23-45be-8da2-09d8b138100b)
   
-#### [통계 API(SW활용현황)을 위한 DB, TABLE 생성] (완료)
+#### [통계 API(SW활용현황)을 위한 DB, TABLE 생성]
 - requestInfo Table 생성
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/ebf29d3d-3201-4bfe-89cf-5e71613ed4ec)
+  
 - requestCode Table 생성
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/504a635f-8d70-47fc-a8a5-d44cab1795b7)
+  
 - user Table 생성
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/06a06b7a-fc23-4b38-988f-b22e7884b2fe)
 
-#### [[20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동] (완료)
+#### [[20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동]
 - 20년도 접속자 리스트 출력하는 URL
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/29dcb89d-f9be-4bbc-939a-455b415ddb31)
   
 #### [SW활용 현황 통계 API 구축을 위한 SQL 작성!]
 - 월별 접속자 수
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/87f26ee5-b96b-434c-9d8b-5f3791195d98)
+  
 - 일자별 접속자 수
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/29f0bfcb-611b-4d2c-b6cb-198ad9a44935)
+  
 - 평균 하루 로그인 수
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/6d241660-29f7-4775-8296-c265f819fb02)
+  
 - 부서별 월별 로그인 수
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/cb5a6c27-4b41-44cd-8e31-ae5907ca4a6e)
+  
 - 휴일을 제외한 로그인 수...
 
 
