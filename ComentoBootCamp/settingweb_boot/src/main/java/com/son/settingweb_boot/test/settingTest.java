@@ -46,6 +46,18 @@ public class settingTest {
         return service.dayAvgLoginNum();
     }
 
+    @ResponseBody
+    @RequestMapping("/sqlDept")
+    public List<HashMap<String, Object>> sqlDept(String yearMonth) throws Exception {
+        return service.deptMonthLoginNum(yearMonth);
+    }
+
+    @ResponseBody
+    @RequestMapping("/sqlHoliyday")
+    public HashMap<String, Object> sqlHoliyday() throws Exception {
+        return service.exceptHoliday();
+    }
+
     @RequestMapping("/test")
     public ModelAndView test() throws Exception{
         ModelAndView mav = new ModelAndView("test");
