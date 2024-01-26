@@ -38,13 +38,21 @@
         GROUP BY createDateMonth
         ) AS MonthlyGrouped)) AS avgDayLogin
     </select>
-    <select id="selectDeptMonthLogin" parameterType="string" resultType="HashMap">
-        SELECT us.HR_ORGAN, LEFT(ri.createDate, 4) AS Month, COUNT(DISTINCT ri.UserID) AS MonthlyLoginCount
+    <select id="selectDeptMonthLogin" parameterType="string" resultType="com.son.settingweb_boot.VO.deptVO">
+        SELECT us.HR_ORGAN, COUNT(DISTINCT ri.userid) AS MonthlyLoginCount
         FROM statistic.requestInfo ri
-        JOIN user us ON ri.userid = us.UserID
+        JOIN statistic.user as us ON ri.userid = us.userid
         WHERE LEFT(ri.createDate, 4) = #{yearMonth}
-        GROUP BY us.HR_ORGAN, Month
-        ORDER BY us.HR_ORGAN, Month;
+        GROUP BY us.HR_ORGAN, LEFT(ri.createDate, 4)
+        ORDER BY us.HR_ORGAN, LEFT(ri.createDate, 4);
+    </select>
+    <select id="selectExceptHoliyDay" parameterType="string" resultType="HashMap">
+        SELECT
+        COUNT(ri.userid) AS MonthlyLoginCount
+        FROM
+        statistic.requestInfo ri
+        WHERE
+        ri.holiday = 0  -- 휴일이 아닌 날짜만 고려
     </select>
 
 </mapper>
