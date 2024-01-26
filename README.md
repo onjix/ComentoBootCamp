@@ -103,26 +103,37 @@
 ### 과제 📙
 #### 1) 3차과제에서 작성한 API와 SQL(5가지)를 중심으로 API를 개발
 - DB 데이터
+  
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/86ec66a8-ec52-4042-9d7f-fab7986491f4)
 
 
+
 - 월별 접속자 수
+  
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/c0e3ffdf-0935-4f82-9a46-1968f554c02b)
+
 
   
 - 일자별 접속자 수
+  
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/52309e49-6835-457c-aa0e-d586c8db9d04)
+
 
   
 - 평균 하루 로그인 수
+  
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/55f66b3e-d7b0-461b-bf07-4e7acb4bfa1f)
+
 
   
 - 휴일을 제외한 로그인 수 ( 해당 문제에서는 휴일을 포함합니다.)
+
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/8aafaaf0-887e-4202-ad2b-a95137682070)
+
 
   
 - 부서별 월별 로그인 수
+  
 ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/dcb37531-59ff-48e3-bdfc-4e9e1f32ceaa)
 
 
