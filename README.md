@@ -50,6 +50,7 @@
 ### 과제 📘
 #### 1) 스프링부트 개발 환경 셋팅
 - Spring boot test
+  
   ![image](https://github.com/onjix/ComentoBootCamp/assets/101625609/0b724b75-de23-45be-8da2-09d8b138100b)
   
 #### 2) 통계 API(SW활용현황)을 위한 DB, TABLE 생성
